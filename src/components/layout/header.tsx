@@ -16,7 +16,7 @@ export function Header() {
   return (
     <header className="fixed top-4 left-4 z-1000">
       <DropdownMenu>
-        <DropdownMenuTrigger className="px-3 py-1.5 text-sm border rounded-md bg-white/80 backdrop-blur-sm hover:bg-white transition-colors outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-300">
+        <DropdownMenuTrigger className="px-3 py-1.5 text-sm border rounded-md bg-slate-900/90 text-white border-white/10 backdrop-blur-sm hover:bg-slate-800 transition-colors outline-none focus:ring-2 focus:ring-offset-2 focus:ring-white/20">
           Menu
         </DropdownMenuTrigger>
         <DropdownMenuContent align="end" className="min-w-[180px]">
