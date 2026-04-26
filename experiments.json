@@ -1,46 +1,132 @@
 [
   {
     "url": "/1-gsap-basics",
-    "name": "1 Gsap Basics"
+    "name": "1 GSAP Basics",
+    "category": "gsap"
   },
   {
     "url": "/2-css-version",
-    "name": "2 Css Version"
+    "name": "2 CSS Version",
+    "category": "gsap"
   },
   {
     "url": "/3-timelines",
-    "name": "3 Timelines"
+    "name": "3 Timelines",
+    "category": "gsap"
   },
   {
     "url": "/4-scroll-trigger",
-    "name": "4 Scroll Trigger"
+    "name": "4 Scroll Trigger",
+    "category": "gsap"
   },
   {
     "url": "/5-follow-scroll",
-    "name": "5 Follow Scroll"
+    "name": "5 Follow Scroll",
+    "category": "gsap"
   },
   {
     "url": "/6-variables",
-    "name": "6 Variables"
+    "name": "6 Variables",
+    "category": "gsap"
   },
   {
     "url": "/7-custom-cursor",
-    "name": "7 Custom Cursor"
+    "name": "7 Custom Cursor",
+    "category": "gsap"
   },
   {
     "url": "/8-image-sequence",
-    "name": "8 Image Sequence"
+    "name": "8 Image Sequence",
+    "category": "gsap"
   },
   {
     "url": "/9-reduced-motion",
-    "name": "9 Reduced Motion"
+    "name": "9 Reduced Motion",
+    "category": "gsap"
   },
   {
     "url": "/10-device-profiling",
-    "name": "10 Device Profiling"
+    "name": "10 Device Profiling",
+    "category": "gsap"
   },
   {
     "url": "/11-animating-3d-scenes",
-    "name": "11 Animating 3d Scenes"
+    "name": "11 Animating 3D Scenes",
+    "category": "gsap"
+  },
+  {
+    "url": "/1-motion-basics",
+    "name": "1 Motion Basics",
+    "category": "motion"
+  },
+  {
+    "url": "/2-animate-presence",
+    "name": "2 Animate Presence",
+    "category": "motion"
+  },
+  {
+    "url": "/3-layout-animations",
+    "name": "3 Layout Animations",
+    "category": "motion"
+  },
+  {
+    "url": "/1-useState-deep-dive",
+    "name": "1 useState Deep Dive",
+    "category": "react-hooks"
+  },
+  {
+    "url": "/2-useEffect-patterns",
+    "name": "2 useEffect Patterns",
+    "category": "react-hooks"
+  },
+  {
+    "url": "/3-custom-hooks",
+    "name": "3 Custom Hooks",
+    "category": "react-hooks"
+  },
+  {
+    "url": "/1-webgl-intro",
+    "name": "1 WebGL Intro",
+    "category": "advanced-animation"
+  },
+  {
+    "url": "/2-threejs-basics",
+    "name": "2 Three.js Basics",
+    "category": "advanced-animation"
+  },
+  {
+    "url": "/3-shader-animations",
+    "name": "3 Shader Animations",
+    "category": "advanced-animation"
+  },
+  {
+    "url": "/1-server-components",
+    "name": "1 Server Components",
+    "category": "nextjs"
+  },
+  {
+    "url": "/2-routing",
+    "name": "2 Routing",
+    "category": "nextjs"
+  },
+  {
+    "url": "/3-data-fetching",
+    "name": "3 Data Fetching",
+    "category": "nextjs"
+  },
+  {
+    "url": "/1-auth-context",
+    "name": "1 Auth Context",
+    "category": "auth"
+  },
+  {
+    "url": "/2-protected-routes",
+    "name": "2 Protected Routes",
+    "category": "auth"
+  },
+  {
+    "url": "/3-role-based-access",
+    "name": "3 Role Based Access",
+    "category": "auth"
   }
 ]
